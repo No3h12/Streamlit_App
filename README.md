@@ -1,6 +1,6 @@
 # Data Analysis and Cleaning with Streamlit
 
-This project is an interactive web application built using Streamlit for data analysis and cleaning. Users can upload CSV or Excel files and explore their data through a user-friendly interface.
+This project is an interactive web application built using **Streamlit** for data analysis and cleaning. Users can upload CSV or Excel files and explore their data through a user-friendly interface.
 
 ## Features
 
@@ -12,19 +12,41 @@ This project is an interactive web application built using Streamlit for data an
 
 ## Libraries Used
 
-- [Streamlit](https://streamlit.io/)
-- [Pandas](https://pandas.pydata.org/)
-- [NumPy](https://numpy.org/)
-- [Plotly](https://plotly.com/python/)
-- [Seaborn](https://seaborn.pydata.org/)
-- [Matplotlib](https://matplotlib.org/)
-- [SciPy](https://www.scipy.org/)
+- [Streamlit]
+- [Pandas]
+- [NumPy]
+- [Plotly]
+- [Seaborn]
+- [Matplotlib]
+- [SciPy]
 
 ## Installation
 
 To run this application locally, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository**:
+   Open your terminal or command prompt and run the following command:
    ```bash
    git clone https://github.com/No3h12/Streamlit_App.git
-   cd your-repo-name
+
+## Navigate to the project directory
+Change into the directory of the cloned repository
+
+2. **Clone the repository**:
+   cd Streamlit_App
+
+## Install the required libraries:
+Use the following command to install all the necessary libraries specified in the requirements.txt file
+
+3. **Clone the repository**:
+   pip install -r requirements.txt
+
+## Run the application:
+Start the Streamlit application with this command:
+
+4. **Clone the repository**:
+   streamlit run app3.py
+
+YouTube Video
+Watch the tutorial on how to use the application: [https://youtu.be/K7fMbwbbgQQ]
+
