@@ -35,15 +35,15 @@ To run this application locally, follow these steps:
    ```bash
    cd Streamlit_App
 
-## Install the required libraries
-Use the following command to install all the necessary libraries specified in the requirements.txt file
-3. **Install the required libraries**
+##
+3. **Install the required libraries**:
+   Use the following command to install all the necessary libraries specified in the requirements.txt file
    ```bash
    pip install -r requirements.txt
 
-## Run the application:
-Start the Streamlit application with this command:
-   
+## 
+4. **Run the application**:
+   Start the Streamlit application with this command:
    ```bash
    streamlit run app3.py
 
