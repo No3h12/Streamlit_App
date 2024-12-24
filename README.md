@@ -29,24 +29,21 @@ To run this application locally, follow these steps:
    ```bash
    git clone https://github.com/No3h12/Streamlit_App.git
 
-## Navigate to the project directory
-Change into the directory of the cloned repository
-
-
+## 
+2. **Navigate to the project directory**:
+   Change into the directory of the cloned repository
    ```bash
    cd Streamlit_App
 
-## Install the required libraries:
+## Install the required libraries
 Use the following command to install all the necessary libraries specified in the requirements.txt file
-
-
+3. **Install the required libraries**
    ```bash
    pip install -r requirements.txt
 
 ## Run the application:
 Start the Streamlit application with this command:
-
-
+   
    ```bash
    streamlit run app3.py
 
