@@ -1,1 +1,1 @@
-
+This code is an interactive web application using Streamlit for data analysis and cleaning. It allows users to upload CSV or Excel files and explore the data through a user-friendly graphical interface.
