@@ -32,7 +32,7 @@ To run this application locally, follow these steps:
 ## Navigate to the project directory
 Change into the directory of the cloned repository
 
-2. **Clone the repository**:
+1. **Clone the repository**:
    cd Streamlit_App
 
 ## Install the required libraries:
